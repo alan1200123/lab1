@@ -1,0 +1,15 @@
+命令稿啟動於 2018年03月13日 下午 11:50:51
+]0;~/lab1
+[32mAlan@Alan-PC [33m~/lab1[0m
+$ g++ -o lab1.cpp lab1.cpp[Clab1.cppalab1.cppblab1.cpp1lab1.cppelab1.cppxlab1.cppelab1.cpp[C[C[Cclab1.cppulab1.cpptlab1.cppilab1.cppolab1.cppnlab1.cpp lab1.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;~/lab1
+[32mAlan@Alan-PC [33m~/lab1[0m
+$ ./lab1execution
+insert an positive integer
+29[D[D60   60229[2~     60229     60229     40  40
+88 44 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 ]0;~/lab1
+[32mAlan@Alan-PC [33m~/lab1[0m
+$ exit
+
+命令稿已於 2018年03月13日 下午 11:53:12
+ 完成
